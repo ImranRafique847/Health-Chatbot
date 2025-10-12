@@ -1,0 +1,7 @@
+streamlit==1.39.0
+torch==2.6.0
+transformers==4.45.2
+sentencepiece
+accelerate
+gdown
+safetensors
