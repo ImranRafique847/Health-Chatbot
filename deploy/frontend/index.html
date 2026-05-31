@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MediCare - Health Assistant</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <div class="logo">
+                <span class="logo-icon">+</span>
+                <span class="logo-text">MediCare</span>
+            </div>
+            <p class="tagline">Your Health Companion</p>
+        </div>
+
+        <nav class="sidebar-nav">
+            <h3 class="nav-title">Quick Topics</h3>
+            <ul class="topic-list">
+                <li class="topic-item" onclick="askTopic('Heart health tips')">❤️ Heart Health</li>
+                <li class="topic-item" onclick="askTopic('Respiratory problems')">🫁 Respiratory</li>
+                <li class="topic-item" onclick="askTopic('Mental health advice')">🧠 Mental Health</li>
+                <li class="topic-item" onclick="askTopic('Bone and joint pain')">🦴 Bone & Joints</li>
+                <li class="topic-item" onclick="askTopic('Nutrition and diet tips')">🍎 Nutrition & Diet</li>
+                <li class="topic-item" onclick="askTopic('Common medications info')">💊 Medications</li>
+            </ul>
+        </nav>
+
+        <div class="sidebar-footer">
+            <button class="clear-btn" onclick="clearChat()">Clear Conversation</button>
+            <p class="disclaimer">This tool provides general health information only. Not a substitute for professional medical advice.</p>
+        </div>
+    </aside>
+
+    <!-- Main Chat Area -->
+    <main class="chat-area">
+        <header class="chat-header">
+            <div class="header-info">
+                <div class="status-dot"></div>
+                <div>
+                    <h2>Health Consultation</h2>
+                    <span class="status-text">Online</span>
+                </div>
+            </div>
+        </header>
+
+        <div class="messages-container" id="messages">
+            <div class="welcome" id="welcome">
+                <div class="welcome-icon">🏥</div>
+                <h2>Welcome to MediCare</h2>
+                <p>Ask any health-related question and get helpful information instantly.</p>
+                <div class="suggestion-chips">
+                    <button onclick="askTopic('What are common symptoms of flu?')">Flu symptoms</button>
+                    <button onclick="askTopic('How to lower blood pressure naturally?')">Blood pressure tips</button>
+                    <button onclick="askTopic('What foods boost immunity?')">Immunity boosters</button>
+                </div>
+            </div>
+        </div>
+
+        <form class="input-area" onsubmit="handleSubmit(event)">
+            <input type="text" id="userInput" placeholder="Describe your symptoms or ask a health question..." autocomplete="off">
+            <button type="submit" id="sendBtn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M22 2L11 13M22 2l-7 20-4-9-9-4 20-7z"/>
+                </svg>
+            </button>
+        </form>
+    </main>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>

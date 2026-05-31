@@ -1,7 +1,4 @@
-streamlit==1.39.0
-torch==2.6.0
-transformers==4.45.2
-sentencepiece
-accelerate
-gdown
-safetensors
+fastapi
+uvicorn
+boto3
+python-dotenv

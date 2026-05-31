@@ -1,0 +1,169 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "answer": "Common symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, fatigue, blurred vision, slow-healing sores, and frequent infections. Type 1 diabetes symptoms may appear suddenly, while Type 2 diabetes symptoms develop gradually over time. If you experience these symptoms, consult a healthcare provider for blood glucose testing."
+  },
+  {
+    "question": "How is hypertension treated?",
+    "answer": "Hypertension (high blood pressure) is treated through lifestyle changes and medications. Lifestyle modifications include reducing sodium intake, regular exercise (at least 150 minutes per week), maintaining a healthy weight, limiting alcohol, and managing stress. Medications include ACE inhibitors, ARBs, calcium channel blockers, diuretics, and beta-blockers. Treatment is individualized based on blood pressure levels and other risk factors."
+  },
+  {
+    "question": "What causes migraine headaches?",
+    "answer": "Migraines are caused by abnormal brain activity affecting nerve signals, chemicals, and blood vessels. Common triggers include hormonal changes, stress, certain foods (aged cheese, processed foods, alcohol), sensory stimuli (bright lights, loud sounds), sleep changes, weather changes, and certain medications. Genetics also play a role, as migraines tend to run in families."
+  },
+  {
+    "question": "What is asthma and how is it managed?",
+    "answer": "Asthma is a chronic respiratory condition where airways become inflamed and narrowed, causing wheezing, shortness of breath, chest tightness, and coughing. Management includes avoiding triggers, using quick-relief inhalers (bronchodilators) for acute symptoms, and long-term controller medications (inhaled corticosteroids) to reduce inflammation. An asthma action plan helps patients manage flare-ups."
+  },
+  {
+    "question": "What are the risk factors for heart disease?",
+    "answer": "Major risk factors for heart disease include high blood pressure, high cholesterol, smoking, diabetes, obesity, physical inactivity, unhealthy diet, excessive alcohol use, stress, and family history. Age and gender also play a role - men over 45 and women over 55 are at higher risk. Managing modifiable risk factors through lifestyle changes and medication can significantly reduce heart disease risk."
+  }
+,
+  {
+    "question": "What is pneumonia?",
+    "answer": "Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm, fever, chills, and difficulty breathing. It can be caused by bacteria, viruses, or fungi. Treatment depends on the cause - bacterial pneumonia is treated with antibiotics, while viral pneumonia may require antiviral medications or supportive care."
+  },
+  {
+    "question": "How do you prevent the common cold?",
+    "answer": "Preventing the common cold involves frequent handwashing with soap and water, avoiding touching your face, staying away from sick individuals, disinfecting frequently touched surfaces, maintaining a healthy immune system through proper nutrition and sleep, and managing stress. There is no vaccine for the common cold as it can be caused by over 200 different viruses."
+  },
+  {
+    "question": "What are the symptoms of depression?",
+    "answer": "Symptoms of depression include persistent sad or empty mood, loss of interest in activities once enjoyed, changes in appetite and weight, sleep disturbances (insomnia or oversleeping), fatigue, feelings of worthlessness or guilt, difficulty concentrating, and thoughts of death or suicide. Symptoms must persist for at least two weeks for a clinical diagnosis. Treatment includes therapy, medication, or a combination of both."
+  },
+  {
+    "question": "What is cholesterol and why is it important?",
+    "answer": "Cholesterol is a waxy substance found in your blood that your body needs to build healthy cells. However, high levels of LDL (bad) cholesterol can increase risk of heart disease by building up in artery walls. HDL (good) cholesterol helps remove other forms of cholesterol from your bloodstream. Healthy cholesterol levels are maintained through diet, exercise, and sometimes medication like statins."
+  },
+  {
+    "question": "What causes kidney stones?",
+    "answer": "Kidney stones form when urine contains more crystal-forming substances (calcium, oxalate, uric acid) than the fluid can dilute. Risk factors include dehydration, high-sodium diet, obesity, digestive diseases, certain medications, and family history. Symptoms include severe pain in the side and back, pain during urination, pink or red urine, nausea, and frequent urination. Treatment ranges from increased fluid intake to surgical procedures depending on stone size."
+  }
+,
+  {
+    "question": "What is anemia?",
+    "answer": "Anemia is a condition where you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues. Symptoms include fatigue, weakness, pale skin, irregular heartbeat, shortness of breath, dizziness, and cold hands and feet. Common causes include iron deficiency, vitamin B12 deficiency, chronic diseases, and genetic conditions like sickle cell anemia. Treatment depends on the cause and may include supplements, dietary changes, or blood transfusions."
+  },
+  {
+    "question": "How is tuberculosis transmitted?",
+    "answer": "Tuberculosis (TB) is transmitted through the air when an infected person coughs, sneezes, speaks, or sings. The bacteria (Mycobacterium tuberculosis) can remain suspended in the air for several hours. Close, prolonged contact with an infected person increases transmission risk. TB is NOT spread by shaking hands, sharing food or drink, or touching surfaces. Latent TB is not contagious, only active TB disease can spread to others."
+  },
+  {
+    "question": "What are the early signs of cancer?",
+    "answer": "Early warning signs of cancer include unexplained weight loss, persistent fatigue, skin changes (darkening, yellowing, redness), changes in bowel or bladder habits, persistent cough or hoarseness, difficulty swallowing, unusual bleeding or discharge, lumps or thickening in the body, persistent indigestion, and unexplained muscle or joint pain. Early detection through regular screenings significantly improves treatment outcomes."
+  },
+  {
+    "question": "What is arthritis?",
+    "answer": "Arthritis refers to inflammation of one or more joints, causing pain, swelling, stiffness, and decreased range of motion. The two most common types are osteoarthritis (wear-and-tear damage to cartilage) and rheumatoid arthritis (immune system attacks joint lining). Treatment includes pain medications (NSAIDs), physical therapy, lifestyle modifications, and in severe cases, joint replacement surgery. Regular low-impact exercise helps maintain joint flexibility."
+  },
+  {
+    "question": "How does insulin work in the body?",
+    "answer": "Insulin is a hormone produced by the pancreas that allows cells to absorb glucose from the bloodstream for energy. When you eat, blood sugar rises and the pancreas releases insulin. Insulin acts like a key, unlocking cells so glucose can enter. In Type 1 diabetes, the pancreas produces little or no insulin. In Type 2 diabetes, cells become resistant to insulin's effects. Without proper insulin function, glucose builds up in the blood causing hyperglycemia."
+  }
+,
+  {
+    "question": "What is a stroke and what are its symptoms?",
+    "answer": "A stroke occurs when blood supply to part of the brain is interrupted or reduced, depriving brain tissue of oxygen and nutrients. Symptoms include sudden numbness or weakness in face, arm, or leg (especially on one side), confusion, trouble speaking, vision problems, difficulty walking, dizziness, and severe headache. Remember FAST: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services. Immediate treatment is critical to minimize brain damage."
+  },
+  {
+    "question": "What is the difference between a virus and bacteria?",
+    "answer": "Bacteria are single-celled organisms that can live independently and reproduce on their own. They can be beneficial or harmful. Viruses are much smaller, not truly alive, and require a host cell to reproduce. Bacterial infections are treated with antibiotics, while viral infections are treated with antiviral medications or managed with supportive care. Antibiotics do NOT work against viruses. Examples: strep throat (bacterial), flu (viral)."
+  },
+  {
+    "question": "What causes allergies?",
+    "answer": "Allergies occur when the immune system overreacts to a normally harmless substance (allergen). When exposed to an allergen, the immune system produces IgE antibodies that trigger release of histamine and other chemicals, causing symptoms. Common allergens include pollen, dust mites, pet dander, mold, certain foods, insect stings, and medications. Treatment includes avoidance of triggers, antihistamines, nasal corticosteroids, and immunotherapy (allergy shots)."
+  },
+  {
+    "question": "How does the liver function in the body?",
+    "answer": "The liver performs over 500 vital functions including filtering blood from the digestive tract, metabolizing drugs and toxins, producing bile for fat digestion, storing glycogen for energy, producing proteins for blood clotting, regulating cholesterol levels, storing vitamins and minerals, and supporting immune function. Liver disease can result from alcohol abuse, viral hepatitis, fatty liver disease, or genetic conditions. Signs of liver problems include jaundice, abdominal pain, and fatigue."
+  },
+  {
+    "question": "What is COPD?",
+    "answer": "Chronic Obstructive Pulmonary Disease (COPD) is a group of progressive lung diseases including emphysema and chronic bronchitis. It causes obstructed airflow from the lungs, leading to breathing difficulty, cough, mucus production, and wheezing. The primary cause is long-term cigarette smoking. Treatment includes bronchodilators, inhaled steroids, oxygen therapy, pulmonary rehabilitation, and smoking cessation. COPD is not curable but is manageable with proper treatment."
+  }
+,
+  {
+    "question": "What is thyroid disease?",
+    "answer": "Thyroid disease occurs when the thyroid gland produces too much (hyperthyroidism) or too little (hypothyroidism) thyroid hormone. Hyperthyroidism symptoms include weight loss, rapid heartbeat, anxiety, and tremors. Hypothyroidism symptoms include fatigue, weight gain, cold sensitivity, and depression. Diagnosis involves blood tests measuring TSH and T4 levels. Treatment includes medication (levothyroxine for hypothyroidism, anti-thyroid drugs for hyperthyroidism), radioactive iodine, or surgery."
+  },
+  {
+    "question": "What are the benefits of regular exercise?",
+    "answer": "Regular exercise provides numerous health benefits including weight management, reduced risk of heart disease and stroke, improved blood sugar control, better mental health and mood, stronger bones and muscles, improved sleep quality, reduced risk of certain cancers, enhanced cognitive function, and increased longevity. Adults should aim for at least 150 minutes of moderate-intensity or 75 minutes of vigorous-intensity aerobic activity per week, plus muscle-strengthening activities twice weekly."
+  },
+  {
+    "question": "What is hepatitis and what are its types?",
+    "answer": "Hepatitis is inflammation of the liver, most commonly caused by viral infections. Hepatitis A spreads through contaminated food/water and usually resolves on its own. Hepatitis B spreads through blood and body fluids, can become chronic, and is preventable by vaccine. Hepatitis C spreads through blood contact, often becomes chronic, and is now curable with antiviral medications. Symptoms include fatigue, nausea, abdominal pain, dark urine, and jaundice. Vaccines exist for Hepatitis A and B."
+  },
+  {
+    "question": "How do antibiotics work?",
+    "answer": "Antibiotics work by killing bacteria or preventing their growth. They target specific bacterial structures or processes: penicillins disrupt cell wall synthesis, tetracyclines inhibit protein synthesis, fluoroquinolones interfere with DNA replication, and sulfonamides block folic acid production. Antibiotics only work against bacteria, NOT viruses. Misuse and overuse leads to antibiotic resistance. Always complete the full prescribed course, even if symptoms improve early."
+  },
+  {
+    "question": "What is osteoporosis?",
+    "answer": "Osteoporosis is a condition where bones become weak and brittle due to loss of bone density. It develops silently over years and is often discovered only after a fracture. Risk factors include aging, female gender, menopause, low calcium intake, vitamin D deficiency, sedentary lifestyle, smoking, and family history. Prevention includes adequate calcium and vitamin D intake, weight-bearing exercise, and avoiding smoking and excessive alcohol. Treatment includes bisphosphonates and other bone-strengthening medications."
+  }
+,
+  {
+    "question": "What is Alzheimer's disease?",
+    "answer": "Alzheimer's disease is a progressive neurodegenerative disorder that destroys memory and other mental functions. It is the most common cause of dementia. Early symptoms include forgetting recent events, difficulty with familiar tasks, and confusion about time or place. As it progresses, patients may experience personality changes, difficulty speaking, and inability to care for themselves. While there is no cure, medications like cholinesterase inhibitors can temporarily slow symptom progression."
+  },
+  {
+    "question": "What causes high blood pressure?",
+    "answer": "High blood pressure (hypertension) can be primary (no identifiable cause, develops gradually over years) or secondary (caused by an underlying condition). Risk factors include age, family history, obesity, physical inactivity, high sodium diet, excessive alcohol, stress, smoking, and chronic conditions like kidney disease or sleep apnea. It is called the 'silent killer' because it often has no symptoms but damages blood vessels, heart, kidneys, and brain over time."
+  },
+  {
+    "question": "What is the flu and how is it different from a cold?",
+    "answer": "Influenza (flu) is a respiratory infection caused by influenza viruses, while the common cold is caused by rhinoviruses and other viruses. The flu typically comes on suddenly with high fever, severe body aches, extreme fatigue, and dry cough. Colds develop gradually with milder symptoms like runny nose, sneezing, and sore throat. The flu can lead to serious complications like pneumonia, especially in elderly, young children, and immunocompromised individuals. Annual flu vaccination is recommended."
+  },
+  {
+    "question": "What is anxiety disorder?",
+    "answer": "Anxiety disorders involve excessive, persistent worry and fear about everyday situations. Types include generalized anxiety disorder (GAD), panic disorder, social anxiety, and specific phobias. Symptoms include restlessness, rapid heartbeat, sweating, trembling, difficulty concentrating, sleep problems, and gastrointestinal issues. Treatment includes cognitive behavioral therapy (CBT), medications (SSRIs, SNRIs, benzodiazepines for short-term use), relaxation techniques, and lifestyle modifications like regular exercise and stress management."
+  },
+  {
+    "question": "How does the immune system work?",
+    "answer": "The immune system is a complex network of cells, tissues, and organs that defends the body against harmful pathogens. It has two main components: innate immunity (immediate, non-specific defense including skin barriers, white blood cells, and inflammation) and adaptive immunity (specific, learned response involving T-cells and B-cells that create antibodies). Vaccines work by training the adaptive immune system to recognize specific pathogens without causing disease."
+  }
+,
+  {
+    "question": "What is food poisoning?",
+    "answer": "Food poisoning is an illness caused by eating contaminated food. Common causes include bacteria (Salmonella, E. coli, Listeria), viruses (norovirus), and parasites. Symptoms include nausea, vomiting, diarrhea, abdominal cramps, and fever, typically appearing within hours to days after eating contaminated food. Most cases resolve on their own with rest and hydration. Seek medical attention if symptoms are severe, last more than 3 days, or if you have bloody stools, high fever, or signs of dehydration."
+  },
+  {
+    "question": "What is sleep apnea?",
+    "answer": "Sleep apnea is a serious sleep disorder where breathing repeatedly stops and starts during sleep. Obstructive sleep apnea (most common) occurs when throat muscles relax and block the airway. Central sleep apnea occurs when the brain doesn't send proper signals to breathing muscles. Symptoms include loud snoring, gasping during sleep, morning headaches, excessive daytime sleepiness, and difficulty concentrating. Treatment includes CPAP machines, oral appliances, lifestyle changes (weight loss), and in some cases surgery."
+  },
+  {
+    "question": "What is iron deficiency anemia?",
+    "answer": "Iron deficiency anemia occurs when the body lacks sufficient iron to produce adequate hemoglobin, the protein in red blood cells that carries oxygen. Causes include inadequate dietary iron, blood loss (heavy menstruation, GI bleeding), pregnancy, and poor iron absorption. Symptoms include extreme fatigue, weakness, pale skin, chest pain, fast heartbeat, brittle nails, and unusual cravings for non-food items (pica). Treatment includes iron supplements, dietary changes (red meat, leafy greens, fortified cereals), and treating the underlying cause."
+  },
+  {
+    "question": "What is a urinary tract infection?",
+    "answer": "A urinary tract infection (UTI) is an infection in any part of the urinary system - kidneys, ureters, bladder, or urethra. Most UTIs involve the lower urinary tract (bladder and urethra). Symptoms include burning sensation during urination, frequent urge to urinate, cloudy or strong-smelling urine, and pelvic pain. Women are at greater risk due to shorter urethra. Treatment involves antibiotics. Prevention includes drinking plenty of water, urinating after intercourse, and wiping front to back."
+  },
+  {
+    "question": "What is vitamin D deficiency?",
+    "answer": "Vitamin D deficiency occurs when the body doesn't get enough vitamin D, which is essential for calcium absorption, bone health, immune function, and mood regulation. Causes include limited sun exposure, dark skin, obesity, kidney or liver disease, and certain medications. Symptoms include bone pain, muscle weakness, fatigue, depression, and frequent infections. Treatment includes vitamin D supplements (D3 preferred), increased sun exposure (10-30 minutes midday), and dietary sources like fatty fish, fortified milk, and egg yolks."
+  }
+,
+  {
+    "question": "What is epilepsy?",
+    "answer": "Epilepsy is a neurological disorder characterized by recurrent, unprovoked seizures caused by abnormal electrical activity in the brain. Seizures can range from brief lapses of attention to severe convulsions. Causes include genetic factors, brain injury, stroke, infections, and developmental disorders. Diagnosis involves EEG and brain imaging. Treatment includes anti-seizure medications (levetiracetam, valproate, lamotrigine), and in drug-resistant cases, surgery or vagus nerve stimulation. Most people with epilepsy can live normal lives with proper treatment."
+  },
+  {
+    "question": "What is dehydration and how do you treat it?",
+    "answer": "Dehydration occurs when the body loses more fluids than it takes in, disrupting normal body functions. Causes include excessive sweating, diarrhea, vomiting, fever, and inadequate fluid intake. Symptoms include thirst, dark urine, dry mouth, fatigue, dizziness, and confusion. Mild dehydration is treated by drinking water and oral rehydration solutions. Severe dehydration requires intravenous fluids and immediate medical attention. Prevention includes drinking 8-10 glasses of water daily, more during exercise or hot weather."
+  },
+  {
+    "question": "What is Parkinson's disease?",
+    "answer": "Parkinson's disease is a progressive nervous system disorder that affects movement. It develops gradually, starting with barely noticeable tremors in one hand. Symptoms include tremors, slowed movement (bradykinesia), rigid muscles, impaired posture and balance, loss of automatic movements, speech changes, and writing changes. It is caused by loss of dopamine-producing neurons in the brain. Treatment includes medications (levodopa, dopamine agonists), deep brain stimulation surgery, and physical therapy."
+  },
+  {
+    "question": "What are the symptoms of COVID-19?",
+    "answer": "COVID-19 symptoms range from mild to severe and may appear 2-14 days after exposure. Common symptoms include fever, cough, fatigue, loss of taste or smell, sore throat, headache, body aches, congestion, nausea, and diarrhea. Severe symptoms requiring emergency care include difficulty breathing, persistent chest pain, confusion, inability to stay awake, and pale or blue-colored skin. Vaccination significantly reduces risk of severe illness, hospitalization, and death."
+  },
+  {
+    "question": "What is gastroesophageal reflux disease (GERD)?",
+    "answer": "GERD is a chronic digestive condition where stomach acid frequently flows back into the esophagus, irritating its lining. Symptoms include heartburn, chest pain, difficulty swallowing, regurgitation of food or sour liquid, and sensation of a lump in the throat. Risk factors include obesity, pregnancy, smoking, and certain foods. Treatment includes lifestyle changes (elevating head during sleep, avoiding trigger foods, eating smaller meals), antacids, H2 blockers, and proton pump inhibitors (PPIs)."
+  }
+]
